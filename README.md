@@ -6,7 +6,6 @@
     <li> Отредактировать файл env (или env.example и убрать example), добавив туда название новой базы и заменив sqlite на mysql в строке DB_CONNECTION; </li>
     <li> Выполнить команду composer install; </li>
     <li> Выполнить команду php artisan migrate; </li>
-    <li> Выполнить команду php artisan db:seed; </li>
     <li> Выполнить команду php artisan key:generate; </li>
     <li> Запустить сервер, используя команду php artisan serve; </li>    
 </ol>
